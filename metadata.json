@@ -1,0 +1,5 @@
+{
+  "name": "CipherFolio",
+  "description": "A high-tech, hacker-themed portfolio website featuring a CLI-style interface, CRT effects, and an AI-powered terminal assistant powered by Gemini.",
+  "requestFramePermissions": []
+}
